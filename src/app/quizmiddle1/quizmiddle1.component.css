@@ -1,0 +1,16 @@
+#exampleFormControlTextarea1{
+    resize: none;
+}
+.slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  .liveimage
+  {
+    height: 80vh;
+    width: 100vh;
+  }
+  
